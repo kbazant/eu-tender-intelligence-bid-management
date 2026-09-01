@@ -14,4 +14,4 @@ Copilot Studio uses Dataverse-grounded knowledge and read-only structured retrie
 
 The AI agent cannot record the official Bid / No Bid decision.
 
-![Architecture](../images/architecture/eu-tender-architecture.png)
+![Architecture](../images/architecture/eu-tender-diagram.png)
