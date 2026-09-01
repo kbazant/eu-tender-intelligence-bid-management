@@ -2,7 +2,7 @@
 
 A Microsoft Power Platform solution for retrieving real EU TED procurement notices, applying deterministic qualification scoring, managing Tender opportunities, and supporting human Bid / No Bid decisions with a grounded Copilot Studio agent.
 
-![Architecture](images/architecture/eu-tender-architecture.png)
+![Architecture](images/architecture/eu-tender-diagram.png)
 
 ## Solution
 
